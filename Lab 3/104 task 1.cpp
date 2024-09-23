@@ -38,9 +38,9 @@ int main()
     Counter cnt;
 
     // cnt.setIncrementStep(4);
+    cnt.increment();
     // cnt.increment();
-    // cnt.increment();
-    // cout<<"Current status: "<<cnt.getCount()<<endl;
+    cout<<"Current status: "<<cnt.getCount()<<endl;
 
     // cnt.resetCount();
     // cout<<"Current status: "<<cnt.getCount()<<endl;
