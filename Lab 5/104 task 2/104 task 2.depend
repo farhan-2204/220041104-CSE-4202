@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1727679318 source:c:\web development\220041104 cse 4202\lab 5\104 task 2\main.cpp
+	<iostream>
+	"employee.h"
+	<string>
+
+1727679672 source:c:\web development\220041104 cse 4202\lab 5\104 task 2\src\employee.cpp
+	"employee.h"
+
+1727678018 c:\web development\220041104 cse 4202\lab 5\104 task 2\include\employee.h
+	<iostream>
+	<bits/stdc++.h>
+
