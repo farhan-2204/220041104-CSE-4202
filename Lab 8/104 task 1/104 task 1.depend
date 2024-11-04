@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1730703582 source:c:\web development\220041104 cse 4202\lab 8\104 task 1\main.cpp
+	<iostream>
+	<string>
+	"Animal.h"
+	"Cow.h"
+	"Cat.h"
+	"PetCat.h"
+	"Chicken.h"
+
+1730703256 source:c:\web development\220041104 cse 4202\lab 8\104 task 1\src\animal.cpp
+	"Animal.h"
+
+1730701415 c:\web development\220041104 cse 4202\lab 8\104 task 1\include\animal.h
+	<iostream>
+	<string>
+
+1730701844 c:\web development\220041104 cse 4202\lab 8\104 task 1\include\cow.h
+	"Animal.h"
+
+1730701827 c:\web development\220041104 cse 4202\lab 8\104 task 1\include\cat.h
+	"Animal.h"
+
+1730701818 c:\web development\220041104 cse 4202\lab 8\104 task 1\include\petcat.h
+	"Cat.h"
+
+1730701836 c:\web development\220041104 cse 4202\lab 8\104 task 1\include\chicken.h
+	"Animal.h"
+
+1730701415 source:c:\web development\220041104 cse 4202\lab 8\104 task 1\src\cat.cpp
+	"Cat.h"
+
+1730701415 source:c:\web development\220041104 cse 4202\lab 8\104 task 1\src\chicken.cpp
+	"Chicken.h"
+
+1730701415 source:c:\web development\220041104 cse 4202\lab 8\104 task 1\src\cow.cpp
+	"Cow.h"
+
+1730703622 source:c:\web development\220041104 cse 4202\lab 8\104 task 1\src\petcat.cpp
+	"PetCat.h"
+
